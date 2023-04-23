@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/DiceGame/static/css/main.073c9b0a.css",
-    "main.js": "/DiceGame/static/js/main.e91d5c23.js",
-    "static/media/logo.svg": "/DiceGame/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/DiceGame/static/js/main.c89bbb21.js",
     "index.html": "/DiceGame/index.html",
     "main.073c9b0a.css.map": "/DiceGame/static/css/main.073c9b0a.css.map",
-    "main.e91d5c23.js.map": "/DiceGame/static/js/main.e91d5c23.js.map"
+    "main.c89bbb21.js.map": "/DiceGame/static/js/main.c89bbb21.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e91d5c23.js"
+    "static/js/main.c89bbb21.js"
   ]
 }
