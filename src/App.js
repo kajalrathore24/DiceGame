@@ -68,7 +68,7 @@ const App=()=>{
               ))}
           </Flex>
           <Box h="150px" width="150px" onClick={genRandomNumber}>
-            <Image src={`/dice/dice${dice}.png`}></Image>
+            <Image src={`./dice/dice${dice}.png`}></Image>
           </Box>
           <Text as="p" fontSize="x1">Click on dice to roll</Text>
 
@@ -82,7 +82,7 @@ const App=()=>{
         
       ): (
         <Flex justify="center" align="center">
-          <Image width="50%" src="/dices.jpg" />
+          <Image width="50%" src="./dices.jpg" />
           <Stack>
             <Heading fontsize="7x1" as="h1">
               {""}
